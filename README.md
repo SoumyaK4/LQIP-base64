@@ -4,9 +4,11 @@
 _So don't get your hopes up thinking this'll work, tho it does kinda_
 <hr>
 
-<img src="https://github.com/user-attachments/assets/b495e138-46b2-4745-947b-dbe25613a8ea" width="28%"/>
-<img src="https://github.com/user-attachments/assets/4e7125b9-2336-4363-ae67-e9b74a0a28e6" width="28%"/>
-<img src="https://github.com/user-attachments/assets/aaba61f1-76c3-4900-8abd-c5786524cc31" width="40%"/>
+Screenshots             |  IO
+:-------------------------:|:-----------:
+![](https://github.com/user-attachments/assets/b495e138-46b2-4745-947b-dbe25613a8ea) | <img src="VG.jpeg" width="65%"/>
+![](https://github.com/user-attachments/assets/4e7125b9-2336-4363-ae67-e9b74a0a28e6) | <img src="VG_demo.jpg" width="70%"/>
+
 <hr>
 
 [ToC](#lqip-base64)
@@ -38,3 +40,4 @@ _So don't get your hopes up thinking this'll work, tho it does kinda_
 
 # *fin*🌓
 Don't!! Don't Create an [Issue](https://github.com/SoumyaK4/LQIP-base64/issues/new/choose) over small stuff, try to get your very own BiG 🧠 MoMenT first 🥇
+AAAAAnd Don't ask about `decoder.py`
