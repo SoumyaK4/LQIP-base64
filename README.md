@@ -37,4 +37,4 @@ _So don't get your hopes up thinking this'll work, tho it does kinda_
 2. And you'll see ✨
 
 # *fin*🌓
-## Don't!! Don't Create an [Issue](https://github.com/SoumyaK4/LQIP-base64/issues/new/choose) over small stuff, try to get your very own BiG 🧠 MoMenT first 🥇
+Don't!! Don't Create an [Issue](https://github.com/SoumyaK4/LQIP-base64/issues/new/choose) over small stuff, try to get your very own BiG 🧠 MoMenT first 🥇
