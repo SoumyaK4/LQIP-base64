@@ -6,8 +6,8 @@ _So don't get your hopes up thinking this'll work, tho it does kinda_
 
 Screenshots             |  IO
 :-------------------------:|:-----------:
-![](https://github.com/user-attachments/assets/b495e138-46b2-4745-947b-dbe25613a8ea) | <img src="VG.jpeg" width="65%"/>
-![](https://github.com/user-attachments/assets/4e7125b9-2336-4363-ae67-e9b74a0a28e6) | <img src="VG_demo.jpg" width="70%"/>
+![](/s1.png) | <img src="VG.jpeg" width="65%"/>
+![](/s2.png) | <img src="VG_demo.jpg" width="70%"/>
 
 <hr>
 
